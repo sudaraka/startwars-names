@@ -1,6 +1,6 @@
 {
   "name": "@sudaraka/startwars-names",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get random StarWars names",
   "main": "src/index.js",
   "publishConfig": {

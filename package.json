@@ -1,5 +1,5 @@
 {
-  "name": "@sudaraka/startwars-names",
+  "name": "@sudaraka/starwars-names",
   "version": "1.0.0",
   "description": "Get random StarWars names",
   "main": "src/index.js",
@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sudaraka/startwars-names.git"
+    "url": "git+https://github.com/sudaraka/starwars-names.git"
   },
   "keywords": [
     "random",
-    "startwars"
+    "starwars"
   ],
   "author": "Sudaraka Wijesinghe <sudaraka@sudaraka.org> (https://sudaraka.org/)",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/sudaraka/startwars-names/issues"
+    "url": "https://github.com/sudaraka/starwars-names/issues"
   },
-  "homepage": "https://github.com/sudaraka/startwars-names#readme",
+  "homepage": "https://github.com/sudaraka/starwars-names#readme",
   "dependencies": {
     "unique-random-array": "^1.0.0"
   }

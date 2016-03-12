@@ -1,8 +1,11 @@
 {
-  "name": "startwars-names",
+  "name": "@sudaraka/startwars-names",
   "version": "0.0.0",
   "description": "Get random StarWars names",
   "main": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
